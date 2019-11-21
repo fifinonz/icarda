@@ -143,4 +143,4 @@ Project Link: [ICARDA Public Website](https://github.com/icarda-git/Public-Websi
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/icarda
 [product-screenshot]: images/screenshot.jpeg
-[labels-screenshot]: images/labels-screenshot.png
+[labels-screenshot]: images/label-screenshot.png
