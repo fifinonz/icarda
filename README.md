@@ -7,10 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -97,7 +94,7 @@ For every [new issue](https://github.com/icarda-git/Public-Website/issues/new):
 4. Add a label to indicate the type and priority of this issue. The priority set will determine the order in which issues are resolved. 
 
 ### Label Types:
-[![Labels Screen Shot][labels-screenshot]](https://www.icarda.org/)
+[![Labels Screen Shot][labels-screenshot]](https://github.com/icarda-git/Public-Website/issues/new)
 
 <!-- ISSUE REPORTING 3-->
 ### Issue Resolution
