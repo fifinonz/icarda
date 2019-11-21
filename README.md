@@ -1,19 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo, twitter_handle, email
--->
-
-
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -38,15 +22,13 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">ICARDA PUBLIC WEBSITE</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    ICARDA is an international organization undertaking research for development. We provide innovative, science-based solutions for countries across the non-tropical dry areas. Our research aims to reduce poverty and enhance food, water, and nutritional security and environmental health, in the face of global challenges, including climate change. 
     <br />
     <a href="https://github.com/icarda-git/Public-Website"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/icarda-git/Public-Website">View Demo</a>
     ·
     <a href="https://github.com/icarda-git/Public-Website/issues">Report Bug</a>
     ·
@@ -61,13 +43,11 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
+* [Issue Reporting](#issue-reporting)
+  * [Guidelines](#guidelines)
+  * [Label Types](#label-types)
+  * [Issue Resolution](#issue-resolution)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -104,31 +84,42 @@ See the [open issues](https://github.com/icarda-git/Public-Website/issues) for a
 When you find an issue on the website or if you have a suggestion to improve how the website works, below are the steps to take to log your request
 
 1. Create a Github account (for new users)
-2. Submit a request to be added to the ICARDA public website repository to [ICARDA-ITU] - ICARDA-ITU@cgiar.org
+2. Submit a request to be added to the ICARDA public website repository to **ICARDA-ITU** - ICARDA-ITU@cgiar.org
 3. Open a new issue request at: [New issue](https://github.com/icarda-git/Public-Website/issues/new)
 
 <!-- ISSUE REPORTING 2 -->
-## Guidelines for Issue Reporting
+### Guidelines
 For every [new issue](https://github.com/icarda-git/Public-Website/issues/new):
 
 1. Provide a descriptive title of the problem
 2. Provide a link of where the issue occurs e.g. icarda.org/about-us
-3. Provide a description of the problem
-4. Add a label to indicate the priority of this issue. The priority set will determine the order in which issues are resolved. (see below)
+3. Provide a description of the problem (if possible please include a screen shot)
+4. Add a label to indicate the type and priority of this issue. The priority set will determine the order in which issues are resolved. 
 
-<!-- LICENSE -->
-## License
+### Label Types:
+[![Labels Screen Shot][labels-screenshot]](https://www.icarda.org/)
 
-<!-- Distributed under the MIT License. See `LICENSE` for more information. -->
+<!-- ISSUE REPORTING 3-->
+### Issue Resolution
 
+The webmaster will attempt to resolve all issues as speedily as possible. The status of each issue will be updated as necessary.
+
+1. Requests marked as critical or urgent will recieve first priority
+**please avoid marking an issue as urgent/critical unless necessary**
+
+2. Requests for new features will be assesed and a timeline for implementation will be given to the requester
+
+3. Once resolved, the webmaster will provide a link to view the solution on the test server. We try as much as possible **NOT** to make direct edits to the live website without first testing.
+
+4. Once the solution is accepted, please add the label to mark it as resolved and close the issue.
 
 
 <!-- CONTACT -->
 ## Contact
 
-Comms Manager - [Dina Ashraf](https://github.com/dashraf123) - d.ashraf@cgiar.org
-MEL Manager - [Enrico Bonaiuti](https://github.com/enricobonaiuti) - e.bonaiuti@cgiar.org
-WebMaster - [Muthoni Nguthi](https://github.com/fifinonz) - m.nguthi@cgiar.org
+* **Comms Manager** - [Dina Ashraf](https://github.com/dashraf123) - d.ashraf@cgiar.org
+* **MEL Manager** - [Enrico Bonaiuti](https://github.com/enricobonaiuti) - e.bonaiuti@cgiar.org
+* **WebMaster** - [Muthoni Nguthi](https://github.com/fifinonz) - m.nguthi@cgiar.org
 
 
 Project Link: [ICARDA Public Website](https://github.com/icarda-git/Public-Website)
@@ -150,14 +141,9 @@ Project Link: [ICARDA Public Website](https://github.com/icarda-git/Public-Websi
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/icarda-git/Public-Website/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/icarda-git/Public-Website/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/icarda-git/Public-Website/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
 [issues-url]: https://github.com/icarda-git/Public-Website/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/icarda-git/Public-Website/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/icarda
 [product-screenshot]: images/screenshot.jpeg
+[labels-screenshot]: images/labels-screenshot.png
