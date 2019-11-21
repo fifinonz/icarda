@@ -101,8 +101,8 @@ For every [new issue](https://github.com/icarda-git/Public-Website/issues/new):
 
 The webmaster will attempt to resolve all issues as speedily as possible. The status of each issue will be updated as necessary.
 
-1. Requests marked as critical or urgent will recieve first priority
-**please avoid marking an issue as urgent/critical unless necessary**
+1. Requests marked as critical or urgent will recieve first priority.
+**Please avoid marking an issue as urgent/critical unless necessary**
 
 2. Requests for new features will be assesed and a timeline for implementation will be given to the requester
 
@@ -128,17 +128,15 @@ Project Link: [ICARDA Public Website](https://github.com/icarda-git/Public-Websi
 
 * [ICARDA](https://www.icarda.org/)
 * [Vardot](https://www.vardot.com/)
-* [Microsoft](https://azure.microsoft.com/en-us/)
-
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/icarda-git/Public-Website/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/fifinonz/icarda.svg?style=flat-square
+[contributors-url]: https://github.com/fifinonz/icarda/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/fifinonz/icarda
 [issues-url]: https://github.com/icarda-git/Public-Website/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/icarda
